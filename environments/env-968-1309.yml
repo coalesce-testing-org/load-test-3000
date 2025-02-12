@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "1309"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-968
+type: Environment

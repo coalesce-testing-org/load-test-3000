@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "849"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-504
+type: Environment

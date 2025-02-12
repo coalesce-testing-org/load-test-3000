@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "2023"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-1672
+type: Environment

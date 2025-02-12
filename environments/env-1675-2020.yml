@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "2020"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-1675
+type: Environment

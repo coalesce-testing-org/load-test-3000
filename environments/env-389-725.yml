@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "725"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-389
+type: Environment

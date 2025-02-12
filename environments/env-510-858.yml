@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "858"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-510
+type: Environment

@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "681"
+mappingDefinitions:
+  DESTINATION:
+    database: DAVID_I_EDW
+    schema: DEV_LOAD_ENV
+  SOURCE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: TPCH_SF001
+name: env-333
+type: Environment

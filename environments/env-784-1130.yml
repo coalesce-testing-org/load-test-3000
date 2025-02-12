@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "1130"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-784
+type: Environment

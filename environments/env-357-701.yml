@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "701"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-357
+type: Environment

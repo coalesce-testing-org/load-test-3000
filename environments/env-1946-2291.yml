@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "2291"
+mappingDefinitions:
+  DESTINATION:
+    database: ""
+    schema: ""
+  SOURCE:
+    database: ""
+    schema: ""
+name: env-1946
+type: Environment
